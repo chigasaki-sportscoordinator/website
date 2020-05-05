@@ -1,0 +1,32 @@
+PDF-XChange Viewer
+ファイル → エクスポート → イメージへエクスポート
+ズーム50%くらい
+
+
+
+ただ単にtxt・xls・doc・PDFなどのドキュメントにリンクを張るとブラウザ内で表示することがありますが、
+開かずにファイルをダウンロードさせたい時があります。
+以下の様にする事で、ブラウザ内で開かずダウンロードさせることができます。
+
+-- download.php --
+
+<?php
+// ダウンロードさせるファイル名
+$tmp_file = "test.txt";
+$j_file   = "テスト.txt";
+$j_file   = mb_convert_encoding($j_file, "SJIS", "EUC");
+// ヘッダ
+header("Content-Type: application/octet-stream");
+// ダイアログボックスに表示するファイル名
+header("Content-Disposition: attachment; filename=$j_file");
+// 対象ファイルを出力する。
+readfile($tmp_file);
+exit;
+?>
+
+他のhtml等からdownload.phpへリンクを張れば出来上がりです。
+
+
+http://bakera.jp/ebi/topic/739
+※2003-07-30 追記 : Content-disposition: attachment を付けるとダウンロードになるのではないかというご指摘を頂きました (えむけいさん、yuuさんありかとうございます)。そんなわけで、<a href="../../downloads/ebitest2.pdf">application/octet-stream かつ Content-disposition: attachment な PDF へのリンク</a>。……おお、確かにダウンロードになりますね！ これで Jakob さんも安心。</a>
+

@@ -1,0 +1,75 @@
+
+<< ディレクトリ構成 >>
+
+chitaishi.web.fc2.com/
+  |
+  +-- index.html ・・・■トップページ
+  +-- ActionList.html ・・・年間活動計画
+  +-- ActionList2.html ・・年間活動計画体指用(ほぼ全部載せ)
+  +-- BihinList.html ・・・茅ヶ崎市の備品リスト
+  +-- Chi_Taishi.css ・・・共通設定ファイル(CSSファイル)
+  |
+  +----/50th ・・・■50周年記念式典＆祝賀会
+  |      |
+  |      +--- 50th_index.html ・・・トップ
+  |      +--- その他もろもろのhtml
+  |      +---/img ・・・写真
+  |
+  +----/img ・・・■index.htmlに掲載する画像類
+  |      |
+  |      +-- ニュースポーツのクリッカブルマップ用画像
+  |      +-- ファビコン
+  |      +-- 運動会種目アニメーションgif
+  |
+  +----/js ・・・■JavaScript置き場
+  |      |
+  |      +-- FancyZoom
+  |      +-- HighSlide
+  |
+  +----/news ・・・■年度末配布広報
+  |      |
+  |      +-- 300
+  |      +-- 320
+  |      +-- 325
+  |      +--  :
+  |      +--  :
+  |
+  +----/NewSports ・・・■ニュースポーツ紹介
+  |      |
+  |      +-- FamilyBadminton.html ・・・ファミリーバドミントン
+  |      +-- Petanque.html ・・・ペタンク
+  |      +-- PetanqueScoreSheet.html ・・・ペタンク得点表
+  |      +-- SoftVolleyball.html ・・・ソフトバレー
+  |      +-- SportsFukiya.html ・・・スポーツ吹き矢
+  |      +-- Unihoc.html ・・・ユニホック
+  |      +---/img
+  |           |
+  |           +---/FamilyBadominton ・・・ファミリーバドミントン画像
+  |           +---/Petanque ・・・ペタンク画像
+  |           +---/SoftVolleyball ・・・ソフトバレー画像
+  |           +---/SportsFukiya ・・・スポーツ吹き矢画像
+  |           +---/Unihoc ・・・ユニホック画像
+  |
+  +----/RecentActivity ・・・■最近の活動：写真コーナー
+  |      |
+  |      +-- events.html ・・・ フレーム生成ページ
+  |      +-- select.html ・・・ 選択ボタンページ
+  |      +-- meeting.html ・・・ 全員協議会，研修
+  |      +-- yume-club.html ・・・ ゆめクラブ大運動会
+  |      +-- marathon.html ・・・ 市民健康マラソン
+  |      +-- friendship.html ・・・ 地区別親善ソフトバレー
+  |      +-- spo-rec.html ・・・ スポレクフェスティバル
+  |      +---/img ・・・写真
+  |           |
+  |           +-- /2009
+  |           +-- /2010
+  |
+  +----/SportsDay ・・・■運動会種目紹介
+         |
+         +-- EventsOfSportsDay.html ・・・種目紹介トップ
+         +-- ChikaraKurabe.html ・・・種目：力くらべ
+         +-- GreatCommon.html ・・・種目：グレイトカモン
+         +-- NikoNikoKick.html ・・・種目：にこにこキックリレー
+         +---/img ・・・写真
+
+

@@ -1,0 +1,155 @@
+
+html,body{margin:0;padding:0}
+body { text-align:center; background-color: #FFFFFF;}
+p{margin:0 10px 10px}
+/* a{display:block;color: #981793;padding:10px} */
+a{padding:5px}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;
+background: #EEEEEE;background: -webkit-gradient(linear, left top, left bottom, from(#EEEEEE), to(#DDDDDD) );
+background: -moz-linear-gradient(-90deg, #EEEEEE, #DDDDDD);
+filter:  progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#EEEEEE', endColorstr='#DDDDDD');
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#EEEEEE', endColorstr='#DDDDDD', GradientType=0)";
+background: -ms-linear-gradient(top,  #EEEEEE,  #DDDDDD);
+background: -o-linear-gradient(-90deg, #EEEEEE, #DDDDDD);
+color: #79B30B}
+div#container{text-align:left}
+div#content {background:#FFFFFF}
+div#content p{line-height:1.4}
+div#navigation{background:#B9CAFF}
+div#extra{background:#FF8539}
+div#accesscnt{background:#EEEEEE}
+div#footer{background: #333;color: #FFF}
+div#footer p{margin:0;padding:5px 10px}
+
+div#container{width:760px;margin:0 auto}
+div#content{float:left;width:560px}
+div#navigation{float:right;width:200px}
+div#accesscnt{float:right;width:200px}
+div#extra{float:right;clear:right;width:200px}
+div#footer{clear:both;width:100%}
+
+.clear { clear:both; }
+.clear hr { display:none; }
+
+/* contentの中で、横に説明入りの図を起きたい場合。 */
+/* 最後は、<div class="clear"><div>で、回り込みを解除。 */
+div#leftfig_in_content{float:left;}
+div#rightfig_in_content{float:right;}
+
+/* リンク明瞭化 */
+a:hover {color:#981793;}
+
+/* リストのスタイル調整 */
+ul {margin: 12px; padding: 5px; list-style-type: disc; }
+/* 画像外枠なし設定 */
+/* a img {border: none;} */
+
+/* セクションの題名部 */
+h3 {
+    background: #4477a1;
+	background: -webkit-gradient(linear, left top, left bottom, from(#81a8cb), to(#4477a1) );
+	background: -moz-linear-gradient(-90deg, #81a8cb, #4477a1);
+	filter:  progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#81a8cb', endColorstr='#4477a1');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#81a8cb', endColorstr='#4477a1', GradientType=0)";
+	background: -ms-linear-gradient(top,  #81a8cb,  #4477a1);
+	background: -o-linear-gradient(-90deg, #81a8cb, #4477a1);
+    color: white;
+    padding: 8px 10px;
+	font-family: 'Hiragino Mincho ProN', serif;
+}
+h3 a {
+    color: white;
+}
+
+
+/* リスト全体をインデントしたいときのdiv id */
+div#listblock{margin-left: 2.0em}
+
+
+/*SmoothScroll用*/
+:target {
+   color: darkblue;
+}
+
+
+/* アコーディオン */
+.ac-container{
+    width: auto;
+    margin: 30px auto;
+}
+.ac-container label{
+    width: 500px;
+    text-align: left;
+	background: #428739;
+	background: -webkit-gradient(linear, left top, left bottom, from(#a8cd75), to(#428739) );
+	background: -moz-linear-gradient(-90deg, #a8cd75, #428739);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#a8cd75', EndColorStr='#428739');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#a8cd75', endColorstr='#428739', GradientType=0)";
+	background: -ms-linear-gradient(top,  #a8cd75,  #428739);
+	background: -o-linear-gradient(-90deg, #a8cd75, #428739);
+
+    margin: auto;
+    padding: 10px 5px;
+    position: relative;
+    display: block;
+    height: auto;
+    cursor: pointer;
+    color: #fff;
+}
+.ac-container label:hover{
+	background: #c8dd95;
+	background: -webkit-gradient(linear, left top, left bottom, from(#428739), to(#c8dd95) );
+	background: -moz-linear-gradient(-90deg, #428739, #c8dd95);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#428739', EndColorStr='#c8dd95');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#428739', endColorstr='#c8dd95', GradientType=0)";
+	background: -ms-linear-gradient(top,  #428739,  #c8dd95);
+	background: -o-linear-gradient(-90deg, #428739, #c8dd95);
+
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+.ac-container label:before{
+ color: #fff;
+    content:"＋ ";
+}
+.ac-container input:checked ~ label:before {
+ color: #fff;
+   content:"－ ";
+}
+.ac-container input{
+   display: none;
+}
+.ac-container div{
+   background: rgba(255, 255, 255, 0.5);
+   margin-top: -1px;
+   overflow: hidden;
+   height: 0px;
+   position: relative;
+   z-index: 10;
+   transition: 
+   height 0.3s ease-in-out, 
+   box-shadow 0.6s linear;
+}
+.ac-container input:checked ~ div{
+   transition: 
+   height 0.5s ease-in-out, 
+   box-shadow 0.1s linear;
+   box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3);
+}
+.ac-container div p{
+   color: #777;
+   line-height: 23px;
+   font-size: 14px;
+   padding: 20px;
+}
+/* 高さの定義 */
+.ac-container input:checked ~ div.ac-small{
+   height: 150px;
+}
+.ac-container input:checked ~ div.ac-medium{
+   height: 200px;
+}
+.ac-container input:checked ~ div.ac-large{
+   height: 300px;
+}
+

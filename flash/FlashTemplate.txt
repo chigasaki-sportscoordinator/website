@@ -1,0 +1,27 @@
+検索キーワード：flash 設置
+
+http://homepage3.nifty.com/fs/sozai/setti2.html
+
+
+
+<embed src="flash/NewSportsItem.swf" loop="true" quality="high" bgcolor="#ffffdd" name="NewSportsItem" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" align="" height="40" width="100%">
+<br><a href="flash/NewSportsItem.swf"></a>
+
+
+
+
+
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/"
+WIDTH="320" HEIGHT="200" id="NewSportsItem" ALIGN="">
+<PARAM NAME=movie VALUE="flash/NewSportsItem.swf">
+<PARAM NAME=loop VALUE=true>
+<PARAM NAME=quality VALUE=high>
+<PARAM NAME=bgcolor VALUE=#ffffdd>
+<EMBED src="flash/NewSportsItem.swf" loop=true quality=high bgcolor=#ffffdd WIDTH="100%" HEIGHT="100%" NAME="NewSportsItem" ALIGN=""
+TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">
+</EMBED>
+</OBJECT>
+
+
+
