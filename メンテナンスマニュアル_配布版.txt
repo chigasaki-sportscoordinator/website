@@ -1,32 +1,32 @@
 
-<< ƒfƒBƒŒƒNƒgƒŠ\¬ >>
+<< ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªæ§‹æˆ >>
 
 chitaishi.web.fc2.com/
   |
-  +-- index.html EEE¡ƒgƒbƒvƒy[ƒW
-  +-- ActionList.html EEE”NŠÔŠˆ“®Œv‰æ
-  +-- ActionList2.html EE”NŠÔŠˆ“®Œv‰æ‘Ìw—p(‚Ù‚Ú‘S•”Ú‚¹)
-  +-- BihinList.html EEEŠƒ–ès‚Ì”õ•iƒŠƒXƒg
-  +-- Chi_Taishi.css EEE‹¤’Êİ’èƒtƒ@ƒCƒ‹(CSSƒtƒ@ƒCƒ‹)
+  +-- index.html ãƒ»ãƒ»ãƒ»â– ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸
+  +-- ActionList.html ãƒ»ãƒ»ãƒ»å¹´é–“æ´»å‹•è¨ˆç”»
+  +-- ActionList2.html ãƒ»ãƒ»å¹´é–“æ´»å‹•è¨ˆç”»ä½“æŒ‡ç”¨(ã»ã¼å…¨éƒ¨è¼‰ã›)
+  +-- BihinList.html ãƒ»ãƒ»ãƒ»èŒ…ãƒ¶å´å¸‚ã®å‚™å“ãƒªã‚¹ãƒˆ
+  +-- Chi_Taishi.css ãƒ»ãƒ»ãƒ»å…±é€šè¨­å®šãƒ•ã‚¡ã‚¤ãƒ«(CSSãƒ•ã‚¡ã‚¤ãƒ«)
   |
-  +----/50th EEE¡50ü”N‹L”O®“T•j‰ê‰ï
+  +----/50th ãƒ»ãƒ»ãƒ»â– 50å‘¨å¹´è¨˜å¿µå¼å…¸ï¼†ç¥è³€ä¼š
   |      |
-  |      +--- 50th_index.html EEEƒgƒbƒv
-  |      +--- ‚»‚Ì‘¼‚à‚ë‚à‚ë‚Ìhtml
-  |      +---/img EEEÊ^
+  |      +--- 50th_index.html ãƒ»ãƒ»ãƒ»ãƒˆãƒƒãƒ—
+  |      +--- ãã®ä»–ã‚‚ã‚ã‚‚ã‚ã®html
+  |      +---/img ãƒ»ãƒ»ãƒ»å†™çœŸ
   |
-  +----/img EEE¡index.html‚ÉŒfÚ‚·‚é‰æ‘œ—Ş
+  +----/img ãƒ»ãƒ»ãƒ»â– index.htmlã«æ²è¼‰ã™ã‚‹ç”»åƒé¡
   |      |
-  |      +-- ƒjƒ…[ƒXƒ|[ƒc‚ÌƒNƒŠƒbƒJƒuƒ‹ƒ}ƒbƒv—p‰æ‘œ
-  |      +-- ƒtƒ@ƒrƒRƒ“
-  |      +-- ‰^“®‰ïí–ÚƒAƒjƒ[ƒVƒ‡ƒ“gif
+  |      +-- ãƒ‹ãƒ¥ãƒ¼ã‚¹ãƒãƒ¼ãƒ„ã®ã‚¯ãƒªãƒƒã‚«ãƒ–ãƒ«ãƒãƒƒãƒ—ç”¨ç”»åƒ
+  |      +-- ãƒ•ã‚¡ãƒ“ã‚³ãƒ³
+  |      +-- é‹å‹•ä¼šç¨®ç›®ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³gif
   |
-  +----/js EEE¡JavaScript’u‚«ê
+  +----/js ãƒ»ãƒ»ãƒ»â– JavaScriptç½®ãå ´
   |      |
   |      +-- FancyZoom
   |      +-- HighSlide
   |
-  +----/news EEE¡”N“x––”z•zL•ñ
+  +----/news ãƒ»ãƒ»ãƒ»â– å¹´åº¦æœ«é…å¸ƒåºƒå ±
   |      |
   |      +-- 300
   |      +-- 320
@@ -34,42 +34,42 @@ chitaishi.web.fc2.com/
   |      +--  :
   |      +--  :
   |
-  +----/NewSports EEE¡ƒjƒ…[ƒXƒ|[ƒcĞ‰î
+  +----/NewSports ãƒ»ãƒ»ãƒ»â– ãƒ‹ãƒ¥ãƒ¼ã‚¹ãƒãƒ¼ãƒ„ç´¹ä»‹
   |      |
-  |      +-- FamilyBadminton.html EEEƒtƒ@ƒ~ƒŠ[ƒoƒhƒ~ƒ“ƒgƒ“
-  |      +-- Petanque.html EEEƒyƒ^ƒ“ƒN
-  |      +-- PetanqueScoreSheet.html EEEƒyƒ^ƒ“ƒN“¾“_•\
-  |      +-- SoftVolleyball.html EEEƒ\ƒtƒgƒoƒŒ[
-  |      +-- SportsFukiya.html EEEƒXƒ|[ƒc‚«–î
-  |      +-- Unihoc.html EEEƒ†ƒjƒzƒbƒN
+  |      +-- FamilyBadminton.html ãƒ»ãƒ»ãƒ»ãƒ•ã‚¡ãƒŸãƒªãƒ¼ãƒãƒ‰ãƒŸãƒ³ãƒˆãƒ³
+  |      +-- Petanque.html ãƒ»ãƒ»ãƒ»ãƒšã‚¿ãƒ³ã‚¯
+  |      +-- PetanqueScoreSheet.html ãƒ»ãƒ»ãƒ»ãƒšã‚¿ãƒ³ã‚¯å¾—ç‚¹è¡¨
+  |      +-- SoftVolleyball.html ãƒ»ãƒ»ãƒ»ã‚½ãƒ•ãƒˆãƒãƒ¬ãƒ¼
+  |      +-- SportsFukiya.html ãƒ»ãƒ»ãƒ»ã‚¹ãƒãƒ¼ãƒ„å¹ãçŸ¢
+  |      +-- Unihoc.html ãƒ»ãƒ»ãƒ»ãƒ¦ãƒ‹ãƒ›ãƒƒã‚¯
   |      +---/img
   |           |
-  |           +---/FamilyBadominton EEEƒtƒ@ƒ~ƒŠ[ƒoƒhƒ~ƒ“ƒgƒ“‰æ‘œ
-  |           +---/Petanque EEEƒyƒ^ƒ“ƒN‰æ‘œ
-  |           +---/SoftVolleyball EEEƒ\ƒtƒgƒoƒŒ[‰æ‘œ
-  |           +---/SportsFukiya EEEƒXƒ|[ƒc‚«–î‰æ‘œ
-  |           +---/Unihoc EEEƒ†ƒjƒzƒbƒN‰æ‘œ
+  |           +---/FamilyBadominton ãƒ»ãƒ»ãƒ»ãƒ•ã‚¡ãƒŸãƒªãƒ¼ãƒãƒ‰ãƒŸãƒ³ãƒˆãƒ³ç”»åƒ
+  |           +---/Petanque ãƒ»ãƒ»ãƒ»ãƒšã‚¿ãƒ³ã‚¯ç”»åƒ
+  |           +---/SoftVolleyball ãƒ»ãƒ»ãƒ»ã‚½ãƒ•ãƒˆãƒãƒ¬ãƒ¼ç”»åƒ
+  |           +---/SportsFukiya ãƒ»ãƒ»ãƒ»ã‚¹ãƒãƒ¼ãƒ„å¹ãçŸ¢ç”»åƒ
+  |           +---/Unihoc ãƒ»ãƒ»ãƒ»ãƒ¦ãƒ‹ãƒ›ãƒƒã‚¯ç”»åƒ
   |
-  +----/RecentActivity EEE¡Å‹ß‚ÌŠˆ“®FÊ^ƒR[ƒi[
+  +----/RecentActivity ãƒ»ãƒ»ãƒ»â– æœ€è¿‘ã®æ´»å‹•ï¼šå†™çœŸã‚³ãƒ¼ãƒŠãƒ¼
   |      |
-  |      +-- events.html EEE ƒtƒŒ[ƒ€¶¬ƒy[ƒW
-  |      +-- select.html EEE ‘I‘ğƒ{ƒ^ƒ“ƒy[ƒW
-  |      +-- meeting.html EEE ‘Sˆõ‹¦‹c‰ïCŒ¤C
-  |      +-- yume-club.html EEE ‚ä‚ßƒNƒ‰ƒu‘å‰^“®‰ï
-  |      +-- marathon.html EEE s–¯Œ’Nƒ}ƒ‰ƒ\ƒ“
-  |      +-- friendship.html EEE ’n‹æ•Êe‘Pƒ\ƒtƒgƒoƒŒ[
-  |      +-- spo-rec.html EEE ƒXƒ|ƒŒƒNƒtƒFƒXƒeƒBƒoƒ‹
-  |      +---/img EEEÊ^
+  |      +-- events.html ãƒ»ãƒ»ãƒ» ãƒ•ãƒ¬ãƒ¼ãƒ ç”Ÿæˆãƒšãƒ¼ã‚¸
+  |      +-- select.html ãƒ»ãƒ»ãƒ» é¸æŠãƒœã‚¿ãƒ³ãƒšãƒ¼ã‚¸
+  |      +-- meeting.html ãƒ»ãƒ»ãƒ» å…¨å“¡å”è­°ä¼šï¼Œç ”ä¿®
+  |      +-- yume-club.html ãƒ»ãƒ»ãƒ» ã‚†ã‚ã‚¯ãƒ©ãƒ–å¤§é‹å‹•ä¼š
+  |      +-- marathon.html ãƒ»ãƒ»ãƒ» å¸‚æ°‘å¥åº·ãƒãƒ©ã‚½ãƒ³
+  |      +-- friendship.html ãƒ»ãƒ»ãƒ» åœ°åŒºåˆ¥è¦ªå–„ã‚½ãƒ•ãƒˆãƒãƒ¬ãƒ¼
+  |      +-- spo-rec.html ãƒ»ãƒ»ãƒ» ã‚¹ãƒãƒ¬ã‚¯ãƒ•ã‚§ã‚¹ãƒ†ã‚£ãƒãƒ«
+  |      +---/img ãƒ»ãƒ»ãƒ»å†™çœŸ
   |           |
   |           +-- /2009
   |           +-- /2010
   |
-  +----/SportsDay EEE¡‰^“®‰ïí–ÚĞ‰î
+  +----/SportsDay ãƒ»ãƒ»ãƒ»â– é‹å‹•ä¼šç¨®ç›®ç´¹ä»‹
          |
-         +-- EventsOfSportsDay.html EEEí–ÚĞ‰îƒgƒbƒv
-         +-- ChikaraKurabe.html EEEí–ÚF—Í‚­‚ç‚×
-         +-- GreatCommon.html EEEí–ÚFƒOƒŒƒCƒgƒJƒ‚ƒ“
-         +-- NikoNikoKick.html EEEí–ÚF‚É‚±‚É‚±ƒLƒbƒNƒŠƒŒ[
-         +---/img EEEÊ^
+         +-- EventsOfSportsDay.html ãƒ»ãƒ»ãƒ»ç¨®ç›®ç´¹ä»‹ãƒˆãƒƒãƒ—
+         +-- ChikaraKurabe.html ãƒ»ãƒ»ãƒ»ç¨®ç›®ï¼šåŠ›ãã‚‰ã¹
+         +-- GreatCommon.html ãƒ»ãƒ»ãƒ»ç¨®ç›®ï¼šã‚°ãƒ¬ã‚¤ãƒˆã‚«ãƒ¢ãƒ³
+         +-- NikoNikoKick.html ãƒ»ãƒ»ãƒ»ç¨®ç›®ï¼šã«ã“ã«ã“ã‚­ãƒƒã‚¯ãƒªãƒ¬ãƒ¼
+         +---/img ãƒ»ãƒ»ãƒ»å†™çœŸ
 
 
