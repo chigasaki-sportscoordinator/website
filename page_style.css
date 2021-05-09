@@ -88,7 +88,7 @@ div#listblock{margin-left: 2.0em}
 	background: -ms-linear-gradient(top,  #a8cd75,  #428739);
 	background: -o-linear-gradient(-90deg, #a8cd75, #428739);
 
-    margin: auto;
+    /* margin: auto; */
     padding: 10px 5px;
     position: relative;
     display: block;
