@@ -9,7 +9,7 @@ background: #EEEEEE;background: -webkit-gradient(linear, left top, left bottom, 
 background: -moz-linear-gradient(-90deg, #EEEEEE, #DDDDDD);
 filter:  progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#EEEEEE', endColorstr='#DDDDDD');
 -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#EEEEEE', endColorstr='#DDDDDD', GradientType=0)";
-font-family: "Hiragino Mincho ProN", "游明朝", "メイリオ", serif;
+font-family: "Hiragino Mincho ProN", "游明朝", serif;
 background: -ms-linear-gradient(top,  #EEEEEE,  #DDDDDD);
 background: -o-linear-gradient(-90deg, #EEEEEE, #DDDDDD);
 color: #79B30B}
@@ -56,7 +56,7 @@ h3 {
 	background: -o-linear-gradient(-90deg, #81a8cb, #4477a1);
     color: white;
     padding: 8px 10px;
-	font-family: "Hiragino Mincho ProN", "游明朝", "メイリオ", serif;
+	font-family: "Hiragino Mincho ProN", "游明朝", serif;
 }
 h3 a {
     color: white;
